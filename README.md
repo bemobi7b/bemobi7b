@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bemobi7b
 - 👀 I’m interested in ... solving real-world problems using technology to make everyday life easier.
-- 🌱 I’m currently learning ... IoT Engineering with Windy City Lab and Kevin McQuown
+- 🌱 I’m currently learning ... PLTW-IED
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
